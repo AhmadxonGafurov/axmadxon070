@@ -65,3 +65,12 @@
 #         print("Dastur tugadi ")
 #         break
 #     else:print("Error")
+# while True:
+#     yosh=int(input("yilingizni kiriting: "))
+#     print(f"sizi yoshiz {2024-yosh}da")
+#     savol=input("Chiqish uchun exit deb yozing ").lower()
+#     if savol=="exit":
+#         print("Dastur tugadi")
+#         break
+#     else:
+#         continue
