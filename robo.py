@@ -73,7 +73,7 @@
 #         print("Dastur tugadi")
 #         break
 #     else:
-# #         continue
+#         continue
 # password=1060
 # xato=0
 # while True:
