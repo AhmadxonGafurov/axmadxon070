@@ -73,4 +73,16 @@
 #         print("Dastur tugadi")
 #         break
 #     else:
-#         continue
+# #         continue
+# password=1060
+# xato=0
+# while True:
+#     parol=int(input("Parol kiriting: "))
+#     if parol==password:
+#         print("siz parolni tugri kirittiz")
+#         break
+#     if parol!=password:
+#         xato+=1
+#     if xato==3:
+#         while True:
+#             print("Xato parol")
