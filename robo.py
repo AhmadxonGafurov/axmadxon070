@@ -79,10 +79,11 @@
 # while True:
 #     parol=int(input("Parol kiriting: "))
 #     if parol==password:
-#         print("siz parolni tugri kirittiz")
+#         print(f"{xato+1}-ta urinishda siz parolni tugri topdingiz")
 #         break
 #     if parol!=password:
 #         xato+=1
+#         print(f"{3-xato} urinishiz qoldi")
 #     if xato==3:
 #         while True:
 #             print("Xato parol")
