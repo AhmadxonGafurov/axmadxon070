@@ -87,3 +87,10 @@
 #     if xato==3:
 #         while True:
 #             print("Xato parol")
+# while True:
+#     son=input("Son kiriting: (chiqish uchun exit dep yozing: ) : ").lower()
+#     if son.isdigit():
+#         print(f"{son} ning kvadrati {int(son)**2}")
+#     elif son=='exit':
+#         print("Dastur tugadi")
+#         break
