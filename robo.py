@@ -94,3 +94,30 @@
 #     elif son=='exit':
 #         print("Dastur tugadi")
 #         break
+
+# kitoblar=[]
+# while 1:
+#     k=input("yaxshi korgan kitobingiz:(chiqish uchun stop dep yozing: ) :  ").lower()
+#     if k=='stop':
+#         break
+#     else:
+#         kitoblar.append(k)   
+# print(kitoblar)
+"""2-mashq"""
+# i=1
+# while i:
+#     yosh=input("yosh kiriting: ").lower()
+#     if yosh=='quit' or yosh=='exit':
+#         print("dastur tugadi")
+#         i=0
+#     if yosh.isdigit():
+#         if int(yosh)==7:
+#             print("2000 so'm")   
+#         elif 7<int(yosh)<=18:
+#             print("3000 so'm")
+           
+#         elif 19<=int(yosh)<=65:
+#             print("10000 so'm")
+#         else:
+#             print("Sizga bepul")
+    
