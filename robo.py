@@ -111,7 +111,7 @@
 #         print("dastur tugadi")
 #         i=0
 #     if yosh.isdigit():
-#         if int(yosh)==7:
+#         if int(yosh)<=7:
 #             print("2000 so'm")   
 #         elif 7<int(yosh)<=18:
 #             print("3000 so'm")
